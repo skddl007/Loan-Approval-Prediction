@@ -132,9 +132,6 @@ This repository contains a Flask-based web application that predicts loan approv
 1. Go to the chatbot page.
 2. Interact with the chatbot powered by Google's generative AI.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
 
