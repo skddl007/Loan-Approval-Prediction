@@ -1,0 +1,8 @@
+Flask
+google-generativeai
+pandas
+scikit-learn
+psycopg2
+Werkzeug
+gtts
+pyglet
