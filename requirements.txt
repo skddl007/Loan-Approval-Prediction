@@ -1,6 +1,7 @@
 Flask
 google-generativeai
 pandas
+numpy
 scikit-learn==1.2.2
 psycopg2-binary
 Werkzeug
