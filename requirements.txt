@@ -1,7 +1,7 @@
 Flask
 google-generativeai
 pandas
-scikit-learn
+scikit-learn==1.2.2
 psycopg2-binary
 Werkzeug
 gtts
